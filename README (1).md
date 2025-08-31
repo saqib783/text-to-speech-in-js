@@ -3,7 +3,7 @@
 A simple and modern **Text-to-Speech Converter** built with **HTML, CSS, and JavaScript**.  
 This project allows users to type any text, select a voice, and listen to the spoken version instantly.  
 
-![Preview](https://via.placeholder.com/800x400.png?text=Text+to+Speech+Converter+Preview)  
+![Preview](images/Screenshot%20(615).png)  
 
 ---
 
@@ -38,7 +38,7 @@ text-to-speech/
 ## 📦 Installation
 Clone this repository:
 ```bash
-git clone https://github.com/your-username/text-to-speech.git
+git clone https://github.com/saqib783/text-to-speech-in-js.git
 ```
 
 Navigate into the project folder:
@@ -59,7 +59,7 @@ Open `index.html` in your browser 🚀
 
 ## 🎨 Screenshots  
 ### Main UI  
-![Main UI](images/preview.png)  
+![Main UI](images/Screenshot%20(616).png)  
 
 ---
 
